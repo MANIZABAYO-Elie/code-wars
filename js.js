@@ -5,3 +5,4 @@ function abbrName(name){
     return initials;
 }
 console.log(abbrName('manizabayo elie'))
+console.log(abbrName('Lionel Messi'))
